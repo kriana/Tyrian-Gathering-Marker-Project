@@ -1,0 +1,99 @@
+<OverlayData>
+
+<!-- TGMP Categorization -->
+<MarkerCategory name="tgmp" DisplayName="Tyrian Gathering Marker Project">
+
+<!-- TGMP Categorization: Wood -->
+	<MarkerCategory name="Wood" iconFile="Data\Wood.png">
+		<MarkerCategory name="Green" iconFile="Data\KRI_Green_Wood_Log.png"/>
+		<MarkerCategory name="Soft" iconFile="Data\KRI_Soft_Wood_Log.png"/>
+		<MarkerCategory name="Seasoned" iconFile="Data\KRI_Seasoned_Wood_Log.png"/>
+		<MarkerCategory name="Hard" iconFile="Data\KRI_Hard_Wood_Log.png"/>
+		<MarkerCategory name="Elder" iconFile="Data\KRI_Elder_Wood_Log.png"/>
+		<MarkerCategory name="Ancient" iconFile="Data\KRI_Ancient_Wood_Log.png"/>
+	</MarkerCategory>
+	
+<!-- TGMP Categorization: Ore -->
+	<MarkerCategory name="Ore" behavior="4" resetLength="7200" iconFile="Data\Ore.png">
+		<MarkerCategory name="Normal">
+			<MarkerCategory name="Copper" iconFile="Data\KRI_Copper_Ore.png"/>
+			<MarkerCategory name="Iron" iconFile="Data\KRI_Iron_Ore.png"/>
+			<MarkerCategory name="Silver" iconFile="Data\KRI_Silver_Ore.png"/>
+			<MarkerCategory name="Gold" iconFile="Data\KRI_Gold_Ore.png"/>
+			<MarkerCategory name="Platinum" iconFile="Data\KRI_Platinum_Ore.png"/>
+			<MarkerCategory name="Mithril" iconFile="Data\KRI_Mithril_Ore.png"/>
+			<MarkerCategory name="Orichalcum" iconFile="Data\KRI_Orichalcum_Ore.png"/>
+		</MarkerCategory>
+		<MarkerCategory name="Rich">
+			<MarkerCategory name="Copper" iconFile="Data\KRI_Copper_Ore.png"/>
+			<MarkerCategory name="Iron" iconFile="Data\KRI_Iron_Ore.png"/>
+			<MarkerCategory name="Silver" iconFile="Data\KRI_Silver_Ore.png"/>
+			<MarkerCategory name="Gold" iconFile="Data\KRI_Gold_Ore.png"/>
+			<MarkerCategory name="Platinum" iconFile="Data\KRI_Platinum_Ore.png"/>
+			<MarkerCategory name="Mithril" iconFile="Data\KRI_Mithril_Ore.png"/>
+			<MarkerCategory name="Orichalcum" iconFile="Data\KRI_Orichalcum_Ore.png"/>
+		</MarkerCategory>
+    </MarkerCategory>
+	
+<!-- TGMP Categorization: Plants -->
+    <MarkerCategory name="Plant" behavior="4" resetLength="7200" iconFile="Data\Plant.png">
+        <MarkerCategory name="Artichoke" iconFile="Data\KRI_Artichoke.png"/>
+        <MarkerCategory name="Asparagus" iconFile="Data\KRI_Asparagus.png"/>
+		<MarkerCategory name="Blackberries"  iconFile="Data\KRI_Blackberry.png"/>
+		<MarkerCategory name="BlueberryBush" DisplayName="Blueberry Bush" iconFile="Data\KRI_Blueberry.png" />
+		<MarkerCategory name="BlackCrocus" DisplayName="Black Crocus" iconFile="Data\KRI_BlackCrocus.png"/>
+        <MarkerCategory name="ButternutSquash" DisplayName="Butternut Squash" iconFile="Data\KRI_ButternutSquash.png"/>
+        <MarkerCategory name="Cabbage" iconFile="Data\KRI_Cabbage.png"/>
+		<MarkerCategory name="Cactus" iconFile="Data\KRI_Cactus.png"/>		
+		<MarkerCategory name="Carrots" iconFile="Data\KRI_Carrot.png" />
+		<MarkerCategory name="Cauliflower" iconFile="Data\KRI_Cauliflower.png"/>
+		<MarkerCategory name="CayennePepper" DisplayName="Cayenne Pepper" iconFile="Data\KRI_Cayenne.png"/>
+		<MarkerCategory name="Clam" iconFile="Data\KRI_Clam.png"/>
+		<MarkerCategory name="Coral" iconFile="Data\KRI_Coral.png"/>
+		<MarkerCategory name="Flax" iconFile="Data\KRI_Flax.png"/>
+		<MarkerCategory name="GhostPepper" DisplayName="Ghost Pepper" iconFile="Data\KRI_GhostPepper.png"/>
+		<MarkerCategory name="Grapes" iconFile="Data\KRI_Grape.png"/>
+		<MarkerCategory name="TGMPHerbs" DisplayName="Herbs">
+			<MarkerCategory name="HerbSeedlings" DisplayName="Cluster of Desert Herbs" iconFile="Data\KRI_Herbs.png"/>
+		    <MarkerCategory name="ClusterOfHerbs" DisplayName="Cluster of Herbs" iconFile="Data\KRI_Herbs.png"/>
+		    <MarkerCategory name="HerbPatch" DisplayName="Herb Patch" iconFile="Data\KRI_Herbs.png" />
+			<MarkerCategory name="HerbSeedlings" DisplayName="Herb Seedlings" iconFile="Data\KRI_Herbs.png"/>
+			<MarkerCategory name="HerbSprouts" DisplayName="Herb Sprouts" iconFile="Data\KRI_Herbs.png"/>
+			<MarkerCategory name="MatureHerbs" DisplayName="Mature Herbs" iconFile="Data\KRI_Herbs.png"/>
+			<MarkerCategory name="VerdantHerbs" DisplayName="Verdant Herbs" iconFile="Data\KRI_Herbs.png"/>
+			<MarkerCategory name="YoungHerbs" DisplayName="Young Herbs" iconFile="Data\KRI_Herbs.png"/>
+		</MarkerCategory>
+		<MarkerCategory name="JunglePlants" DisplayName="Jungle Plants" iconFile="Data\KRI_JunglePlants.png"/>
+		<MarkerCategory name="Kale"/>
+		<MarkerCategory name="Leeks" iconFile="Data\KRI_Leek.png"/>
+		<MarkerCategory name="Lettuce" iconFile="Data\KRI_Lettuce.png"/>
+		<MarkerCategory name="Lotus" iconFile="Data\KRI_Lotus.png"/>
+		<MarkerCategory name="TGMPMushrooms" DisplayName="Mushrooms">
+			<MarkerCategory name="ButtonMushroom" DisplayName="Button Mushroom" iconFile="Data\KRI_Mushrooms.png" />
+			<MarkerCategory name="PortobelloMushrooms" DisplayName="Portobello Mushrooms" iconFile="Data\KRI_Mushrooms.png"/>
+		    <MarkerCategory name="VariedMushrooms" DisplayName="Varied Mushrooms" iconFile="Data\KRI_Mushrooms.png"/>
+		</MarkerCategory>
+		<MarkerCategory name="Mussels" iconFile="Data\KRI_Mussel.png"/>
+		<MarkerCategory name="Omnomberries" iconFile="Data\KRI_Omnomberry.png"/>
+		<MarkerCategory name="Onions" iconFile="Data\KRI_Onion.png"/>
+		<MarkerCategory name="OrrianTruffle" DisplayName="Orrian Truffle" iconFile="Data\KRI_OrrianTruffle.png"/>
+		<MarkerCategory name="Passiflora" iconFile="Data\KRI_Passiflora.png"/>
+		<MarkerCategory name="Potato" iconFile="Data\KRI_Potato.png"/>
+		<MarkerCategory name="Raspberries" iconFile="Data\KRI_Raspberry.png"/>
+		<MarkerCategory name="TGMPRootVegetables" DisplayName ="Roots">
+			<MarkerCategory name="RootVegetables" DisplayName="Root Vegetables" iconFile="Data\KRI_Taproots.png"/>
+			<MarkerCategory name="Taproots" iconFile="Data\KRI_Taproots.png"/>
+			<MarkerCategory name="VariegatedTaproots" DisplayName="Variegated Taproots" iconFile="Data\KRI_Taproots.png"/>
+			<MarkerCategory name="WinterRootVegetables" DisplayName="Winter Root Vegetables" iconFile="Data\KRI_Taproots.png"/>
+		</MarkerCategory>
+		<MarkerCategory name="SawgillMushrooms" DisplayName="Sawgill Mushrooms" iconFile="Data\KRI_Sawgill.png"/>
+		<MarkerCategory name="Scallions" iconFile="Data\KRI_Scallions.png" />
+		<MarkerCategory name="Seaweed" iconFile="Data\KRI_Seaweed.png"/>
+		<MarkerCategory name="SnowTruffle" DisplayName="Snow Truffle" iconFile="Data\KRI_SnowTruffle.png"/>
+		<MarkerCategory name="Spinach" iconFile="Data\KRI_Spinach.png"/>
+		<MarkerCategory name="StrawberryPatch" DisplayName="Strawberry Patch" iconFile="Data\KRI_Strawberry.png"/>
+		<MarkerCategory name="SugarPumpkin" DisplayName="Sugar Pumpkin" iconFile="Data\KRI_Pumpkin.png"/>
+		<MarkerCategory name="Zucchini" iconFile="Data\KRI_Zucchini.png"/>
+      </MarkerCategory>
+    </MarkerCategory>
+</OverlayData>
