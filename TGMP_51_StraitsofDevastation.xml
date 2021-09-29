@@ -1,0 +1,271 @@
+<OverlayData>
+<!-- Preliminary data kindly provided by LukyLuke.8734 -->
+<!-- TGMP Categorization -->
+<MarkerCategory name="tgmp" DisplayName="Tyrian Gathering Marker Project">
+
+<!-- TGMP Categorization: Wood -->
+	<MarkerCategory name="Wood" iconFile="Data\Wood.png">
+		<MarkerCategory name="Green" iconFile="Data\KRI_Green_Wood_Log.png"/>
+		<MarkerCategory name="Soft" iconFile="Data\KRI_Soft_Wood_Log.png"/>
+		<MarkerCategory name="Seasoned" iconFile="Data\KRI_Seasoned_Wood_Log.png"/>
+		<MarkerCategory name="Hard" iconFile="Data\KRI_Hard_Wood_Log.png"/>
+		<MarkerCategory name="Elder" iconFile="Data\KRI_Elder_Wood_Log.png"/>
+		<MarkerCategory name="Ancient" iconFile="Data\KRI_Ancient_Wood_Log.png"/>
+	</MarkerCategory>
+	
+<!-- TGMP Categorization: Ore -->
+	<MarkerCategory name="Ore" behavior="4" resetLength="7200" iconFile="Data\Ore.png">
+		<MarkerCategory name="Normal">
+			<MarkerCategory name="Copper" iconFile="Data\KRI_Copper_Ore.png"/>
+			<MarkerCategory name="Iron" iconFile="Data\KRI_Iron_Ore.png"/>
+			<MarkerCategory name="Silver" iconFile="Data\KRI_Silver_Ore.png"/>
+			<MarkerCategory name="Gold" iconFile="Data\KRI_Gold_Ore.png"/>
+			<MarkerCategory name="Platinum" iconFile="Data\KRI_Platinum_Ore.png"/>
+			<MarkerCategory name="Mithril" iconFile="Data\KRI_Mithril_Ore.png"/>
+			<MarkerCategory name="Orichalcum" iconFile="Data\KRI_Orichalcum_Ore.png"/>
+		</MarkerCategory>
+		<MarkerCategory name="Rich">
+			<MarkerCategory name="Copper" iconFile="Data\KRI_Copper_Ore.png"/>
+			<MarkerCategory name="Iron" iconFile="Data\KRI_Iron_Ore.png"/>
+			<MarkerCategory name="Silver" iconFile="Data\KRI_Silver_Ore.png"/>
+			<MarkerCategory name="Gold" iconFile="Data\KRI_Gold_Ore.png"/>
+			<MarkerCategory name="Platinum" iconFile="Data\KRI_Platinum_Ore.png"/>
+			<MarkerCategory name="Mithril" iconFile="Data\KRI_Mithril_Ore.png"/>
+			<MarkerCategory name="Orichalcum" iconFile="Data\KRI_Orichalcum_Ore.png"/>
+		</MarkerCategory>
+    </MarkerCategory>
+	
+<!-- TGMP Categorization: Plants -->
+    <MarkerCategory name="Plant" behavior="4" resetLength="7200" iconFile="Data\Plant.png">
+        <MarkerCategory name="Artichoke" iconFile="Data\KRI_Artichoke.png"/>
+        <MarkerCategory name="Asparagus" iconFile="Data\KRI_Asparagus.png"/>
+		<MarkerCategory name="Blackberries"  iconFile="Data\KRI_Blackberry.png"/>
+		<MarkerCategory name="BlueberryBush" DisplayName="Blueberry Bush" iconFile="Data\KRI_Blueberry.png" />
+		<MarkerCategory name="BlackCrocus" DisplayName="Black Crocus" iconFile="Data\KRI_BlackCrocus.png"/>
+        <MarkerCategory name="ButternutSquash" DisplayName="Butternut Squash" iconFile="Data\KRI_ButternutSquash.png"/>
+        <MarkerCategory name="Cabbage" iconFile="Data\KRI_Cabbage.png"/>
+		<MarkerCategory name="Cactus" iconFile="Data\KRI_Cactus.png"/>		
+		<MarkerCategory name="Carrots" iconFile="Data\KRI_Carrot.png" />
+		<MarkerCategory name="Cauliflower" iconFile="Data\KRI_Cauliflower.png"/>
+		<MarkerCategory name="CayennePepper" DisplayName="Cayenne Pepper" iconFile="Data\KRI_Cayenne.png"/>
+		<MarkerCategory name="Clam" iconFile="Data\KRI_Clam.png"/>
+		<MarkerCategory name="Coral" iconFile="Data\KRI_Coral.png"/>
+		<MarkerCategory name="Flax" iconFile="Data\KRI_Flax.png"/>
+		<MarkerCategory name="GhostPepper" DisplayName="Ghost Pepper" iconFile="Data\KRI_GhostPepper.png"/>
+		<MarkerCategory name="Grapes" iconFile="Data\KRI_Grape.png"/>
+		<MarkerCategory name="TGMPHerbs" DisplayName="Herbs">
+			<MarkerCategory name="HerbSeedlings" DisplayName="Cluster of Desert Herbs" iconFile="Data\KRI_Herbs.png"/>
+		    <MarkerCategory name="ClusterOfHerbs" DisplayName="Cluster of Herbs" iconFile="Data\KRI_Herbs.png"/>
+		    <MarkerCategory name="HerbPatch" DisplayName="Herb Patch" iconFile="Data\KRI_Herbs.png" />
+			<MarkerCategory name="HerbSeedlings" DisplayName="Herb Seedlings" iconFile="Data\KRI_Herbs.png"/>
+			<MarkerCategory name="HerbSprouts" DisplayName="Herb Sprouts" iconFile="Data\KRI_Herbs.png"/>
+			<MarkerCategory name="MatureHerbs" DisplayName="Mature Herbs" iconFile="Data\KRI_Herbs.png"/>
+			<MarkerCategory name="VerdantHerbs" DisplayName="Verdant Herbs" iconFile="Data\KRI_Herbs.png"/>
+			<MarkerCategory name="YoungHerbs" DisplayName="Young Herbs" iconFile="Data\KRI_Herbs.png"/>
+		</MarkerCategory>
+		<MarkerCategory name="JunglePlants" DisplayName="Jungle Plants" iconFile="Data\KRI_JunglePlants.png"/>
+		<MarkerCategory name="Kale"/>
+		<MarkerCategory name="Leeks" iconFile="Data\KRI_Leek.png"/>
+		<MarkerCategory name="Lettuce" iconFile="Data\KRI_Lettuce.png"/>
+		<MarkerCategory name="Lotus" iconFile="Data\KRI_Lotus.png"/>
+		<MarkerCategory name="TGMPMushrooms" DisplayName="Mushrooms">
+			<MarkerCategory name="ButtonMushroom" DisplayName="Button Mushroom" iconFile="Data\KRI_Mushrooms.png" />
+			<MarkerCategory name="PortobelloMushrooms" DisplayName="Portobello Mushrooms" iconFile="Data\KRI_Mushrooms.png"/>
+		    <MarkerCategory name="VariedMushrooms" DisplayName="Varied Mushrooms" iconFile="Data\KRI_Mushrooms.png"/>
+		</MarkerCategory>
+		<MarkerCategory name="Mussels" iconFile="Data\KRI_Mussel.png"/>
+		<MarkerCategory name="Omnomberries" iconFile="Data\KRI_Omnomberry.png"/>
+		<MarkerCategory name="Onions" iconFile="Data\KRI_Onion.png"/>
+		<MarkerCategory name="OrrianTruffle" DisplayName="Orrian Truffle" iconFile="Data\KRI_OrrianTruffle.png"/>
+		<MarkerCategory name="Passiflora" iconFile="Data\KRI_Passiflora.png"/>
+		<MarkerCategory name="Potato" iconFile="Data\KRI_Potato.png"/>
+		<MarkerCategory name="Raspberries" iconFile="Data\KRI_Raspberry.png"/>
+		<MarkerCategory name="TGMPRootVegetables" DisplayName ="Roots">
+			<MarkerCategory name="RootVegetables" DisplayName="Root Vegetables" iconFile="Data\KRI_Taproots.png"/>
+			<MarkerCategory name="Taproots" iconFile="Data\KRI_Taproots.png"/>
+			<MarkerCategory name="VariegatedTaproots" DisplayName="Variegated Taproots" iconFile="Data\KRI_Taproots.png"/>
+			<MarkerCategory name="WinterRootVegetables" DisplayName="Winter Root Vegetables" iconFile="Data\KRI_Taproots.png"/>
+		</MarkerCategory>
+		<MarkerCategory name="SawgillMushrooms" DisplayName="Sawgill Mushrooms" iconFile="Data\KRI_Sawgill.png"/>
+		<MarkerCategory name="Scallions" iconFile="Data\KRI_Scallions.png" />
+		<MarkerCategory name="Seaweed" iconFile="Data\KRI_Seaweed.png"/>
+		<MarkerCategory name="SnowTruffle" DisplayName="Snow Truffle" iconFile="Data\KRI_SnowTruffle.png"/>
+		<MarkerCategory name="Spinach" iconFile="Data\KRI_Spinach.png"/>
+		<MarkerCategory name="StrawberryPatch" DisplayName="Strawberry Patch" iconFile="Data\KRI_Strawberry.png"/>
+		<MarkerCategory name="SugarPumpkin" DisplayName="Sugar Pumpkin" iconFile="Data\KRI_Pumpkin.png"/>
+		<MarkerCategory name="Zucchini" iconFile="Data\KRI_Zucchini.png"/>
+      </MarkerCategory>
+    </MarkerCategory>
+	
+	<POIs>
+		<POI MapID="51" xpos="-288.089" ypos="29.0306" zpos="-643.985" type="tgmp.plant.cayennepepper" GUID="o+CJslo9U0KRjiLuodnWHQ=="/>
+		<POI MapID="51" xpos="-326.482" ypos="20.0333" zpos="-788.628" type="tgmp.plant.orriantruffle" GUID="lHavXpkfV06Nh6gd07fF3A=="/>
+		<POI MapID="51" xpos="-331.989" ypos="23.9633" zpos="-638.179" type="tgmp.wood.elder" GUID="q3DdPe/NW0WU4aw415aAwg=="/>
+		<POI MapID="51" xpos="-333.181" ypos="23.8439" zpos="-633.175" type="tgmp.wood.elder" GUID="FO5igJXQpkuUK2BIY4gJjQ=="/>
+		<POI MapID="51" xpos="-337.678" ypos="23.8605" zpos="-630.789" type="tgmp.wood.elder" GUID="Aa8RACEnY0iN1NNgyf69KQ=="/>
+		<POI MapID="51" xpos="-341.569" ypos="23.8381" zpos="-632.002" type="tgmp.wood.elder" GUID="m2dmbzY9kkKViggpGwRhpw=="/>
+		<POI MapID="51" xpos="-442.403" ypos="12.5668" zpos="-406.325" type="tgmp.wood.elder" GUID="Mv5u6xw2Wku5SxAnsfqqcQ=="/>
+		<POI MapID="51" xpos="-310.841" ypos="1.3295" zpos="-452.757" type="tgmp.ore.normal.mithril" GUID="8j5iIsTrYEioB7IUtG5lxA=="/>
+		<POI MapID="51" xpos="-313.323" ypos="36.1094" zpos="-186.547" type="tgmp.ore.normal.mithril" GUID="k53KZHit+EGOyTyWn3p1hA=="/>
+		<POI MapID="51" xpos="-358.033" ypos="37.2191" zpos="-126.323" type="tgmp.wood.elder" GUID="X2PO+UMoCEmT4jmX94g+kg=="/>
+		<POI MapID="51" xpos="-337.75" ypos="36.4794" zpos="-65.7557" type="tgmp.ore.normal.mithril" GUID="YWmEhPv2pkKPdUj+OFt3zQ=="/>
+		<POI MapID="51" xpos="-524.438" ypos="35.0621" zpos="-240.14" type="tgmp.wood.elder" GUID="hCStDxvTV0OnZVVTO2/Jag=="/>
+		<POI MapID="51" xpos="-606.546" ypos="28.1329" zpos="-126.913" type="tgmp.plant.cayennepepper" GUID="W2mv8KS1uk+ZQsVrja7brQ=="/>
+		<POI MapID="51" xpos="-668.017" ypos="33.0571" zpos="-18.8434" type="tgmp.ore.normal.mithril" GUID="vbSr79KEnEO6FGgUIqDp+Q=="/>
+		<POI MapID="51" xpos="-667.223" ypos="31.9078" zpos="-171.846" type="tgmp.ore.normal.mithril" GUID="hdhEE8hk8Eumd1Jj9sM8DQ=="/>
+		<POI MapID="51" xpos="-531.835" ypos="28.2026" zpos="191.317" type="tgmp.ore.normal.mithril" GUID="oqqpLpVCz0qf5z5U4x/cHQ=="/>
+		<POI MapID="51" xpos="-693.043" ypos="16.2456" zpos="261.579" type="tgmp.ore.normal.mithril" GUID="uxUh4PdZh0K0Cijb3M+JFA=="/>
+		<POI MapID="51" xpos="-843.969" ypos="10.4383" zpos="243.354" type="tgmp.wood.elder" GUID="RE4vjjSyUkyE5iDDQGDNkw=="/>
+		<POI MapID="51" xpos="-861.161" ypos="8.6497" zpos="59.2675" type="tgmp.plant.orriantruffle" GUID="7UkpDHrRckGWFY+EHIl/4g=="/>
+		<POI MapID="51" xpos="-934.338" ypos="1.885" zpos="-40.3583" type="tgmp.wood.elder" GUID="ilUSciNbkUqld+kOv2VK5A=="/>
+		<POI MapID="51" xpos="-860.579" ypos="23.284" zpos="-200.404" type="tgmp.wood.elder" GUID="cma+4xF820WrwzReIVxDhw=="/>
+		<POI MapID="51" xpos="-798.384" ypos="29.7077" zpos="-231.741" type="tgmp.wood.elder" GUID="nfj2vNnLBESoAH3edJAc9w=="/>
+		<POI MapID="51" xpos="-788.016" ypos="29.5608" zpos="-413.931" type="tgmp.plant.cayennepepper" GUID="9pepM7iVP0CiojRVKbvbyA=="/>
+		<POI MapID="51" xpos="-894.366" ypos="41.8207" zpos="-469.347" type="tgmp.wood.elder" GUID="4wGPEU+ujUeAklyxCGJJNw=="/>
+		<POI MapID="51" xpos="-869.351" ypos="55.3301" zpos="-631.596" type="tgmp.plant.orriantruffle" GUID="CQrh0VnNw0+Blb6qgNiYsQ=="/>
+		<POI MapID="51" xpos="-765.737" ypos="41.9065" zpos="-687.119" type="tgmp.plant.orriantruffle" GUID="vOqa7MpH90ykWoQFMkkh4g=="/>
+		<POI MapID="51" xpos="-753.679" ypos="42.1176" zpos="-632.622" type="tgmp.ore.normal.mithril" GUID="C3hW3EJdOkG0htpYqpi1/w=="/>
+		<POI MapID="51" xpos="-226.458" ypos="37.2622" zpos="-790.143" type="tgmp.plant.orriantruffle" GUID="Z3uzw+DnK0+CFRvmsym6Tg=="/>
+		<POI MapID="51" xpos="-547.399" ypos="23.8433" zpos="-305.749" type="tgmp.plant.cayennepepper" GUID="Nawrnehm80+PZOtu/0QY1g=="/>
+		<POI MapID="51" xpos="-493.813" ypos="21.0394" zpos="-306.629" type="tgmp.wood.elder" GUID="zQlker/eTUKl3lDh7xTS0Q=="/>
+		<POI MapID="51" xpos="-453.751" ypos="26.5504" zpos="-294.894" type="tgmp.ore.normal.mithril" GUID="dt3JoDUz3EOiqHikRlXxmw=="/>
+		<POI MapID="51" xpos="-382.479" ypos="31.3612" zpos="72.115" type="tgmp.ore.normal.mithril" GUID="5ZIrQfhbX0iWJSU0y0chOA=="/>
+		<POI MapID="51" xpos="-558.873" ypos="16.781" zpos="254.703" type="tgmp.wood.elder" GUID="zk21B85+jU+OHyBuVz2S5g=="/>
+		<POI MapID="51" xpos="-568.534" ypos="18.2653" zpos="268.236" type="tgmp.wood.elder" GUID="aV+XTYMgjECz78XJY5BBAQ=="/>
+		<POI MapID="51" xpos="-560.732" ypos="14.9659" zpos="283.076" type="tgmp.ore.normal.mithril" GUID="Ft2BCH7CMkCuR+biUYqddA=="/>
+		<POI MapID="51" xpos="-628.751" ypos="7.09999" zpos="225.06" type="tgmp.wood.elder" GUID="4QiTzwP1O0uSVr0XYNKt2g=="/>
+		<POI MapID="51" xpos="-679.736" ypos="9.1874" zpos="196.451" type="tgmp.wood.elder" GUID="k4vBGdiiRk67CaBVbfwVgQ=="/>
+		<POI MapID="51" xpos="-937.113" ypos="8.65328" zpos="-14.0066" type="tgmp.plant.orriantruffle" GUID="+vFMNc7NskiSxFX4s0oFIA=="/>
+		<POI MapID="51" xpos="-841.783" ypos="29.388" zpos="-301.776" type="tgmp.wood.elder" GUID="fpTrJJgoHUiDP4gE0rVz4A=="/>
+		<POI MapID="51" xpos="-879.538" ypos="38.7168" zpos="-514.808" type="tgmp.ore.normal.mithril" GUID="tA1PoFyr5kSEqBUjCD9IiA=="/>
+		<POI MapID="51" xpos="-816.877" ypos="43.6825" zpos="-606.988" type="tgmp.plant.orriantruffle" GUID="YPq5u2PkOUWzrgdbPdVNTg=="/>
+		<POI MapID="51" xpos="-858.562" ypos="55.865" zpos="-620.664" type="tgmp.ore.normal.mithril" GUID="t4O4qUCTeEeHrXGb4lt31A=="/>
+		<POI MapID="51" xpos="-375.36" ypos="3.84528" zpos="-527.369" type="tgmp.wood.elder" GUID="JisMPlGGe0OKb0QONXNrzQ=="/>
+		<POI MapID="51" xpos="-471.835" ypos="11.9731" zpos="-464.187" type="tgmp.ore.normal.mithril" GUID="dV7BPr9j3E+mGpOSE3xWkQ=="/>
+		<POI MapID="51" xpos="-499.948" ypos="32.0558" zpos="-443.029" type="tgmp.ore.normal.mithril" GUID="p0hXGn10SEKpLygGD96B9Q=="/>
+		<POI MapID="51" xpos="-442.018" ypos="38.0662" zpos="-279.433" type="tgmp.ore.normal.mithril" GUID="qTZkU9I5QEmqoFfvLDCAXA=="/>
+		<POI MapID="51" xpos="-331.184" ypos="30.4383" zpos="125.095" type="tgmp.wood.elder" GUID="aCftl3gVXE2sdbkEQPN6GQ=="/>
+		<POI MapID="51" xpos="-524.891" ypos="16.366" zpos="118.817" type="tgmp.ore.normal.mithril" GUID="PALIO7N5FkOjbsgK/7cg+g=="/>
+		<POI MapID="51" xpos="-428.491" ypos="10.8902" zpos="162.765" type="tgmp.ore.normal.mithril" GUID="xc2DvRqTqUKT5SIMMbKyJQ=="/>
+		<POI MapID="51" xpos="-498.833" ypos="26.4989" zpos="210.016" type="tgmp.wood.elder" GUID="0L9gY7dO8UGrO315+Lsu9w=="/>
+		<POI MapID="51" xpos="-596.226" ypos="0.696281" zpos="133.636" type="tgmp.ore.normal.mithril" GUID="5Q23cfHPgEuS5hlLS0ipbw=="/>
+		<POI MapID="51" xpos="-528.805" ypos="8.82517" zpos="266.832" type="tgmp.ore.normal.mithril" GUID="x5tzc/GE7U6aW0TMJ2j3cA=="/>
+		<POI MapID="51" xpos="-722.481" ypos="17.3276" zpos="290.92" type="tgmp.wood.elder" GUID="NhxmyKub5k2IwoDzKT944Q=="/>
+		<POI MapID="51" xpos="-806.118" ypos="23.5733" zpos="-180.411" type="tgmp.wood.elder" GUID="aoqmOWwyi0+iwV1QIkgJhQ=="/>
+		<POI MapID="51" xpos="-760.804" ypos="30.4363" zpos="-244.957" type="tgmp.wood.elder" GUID="WB04AaYhh0GE0DMJlTqIXA=="/>
+		<POI MapID="51" xpos="-615.269" ypos="29.7649" zpos="-159.491" type="tgmp.wood.elder" GUID="FhBoj9TQ5Eq4HcVUxrAdJg=="/>
+		<POI MapID="51" xpos="-799.415" ypos="30.3833" zpos="-476.912" type="tgmp.ore.normal.mithril" GUID="GR1JVdMo/0qZy5aHHCxiow=="/>
+		<POI MapID="51" xpos="-815.608" ypos="27.3068" zpos="-532.563" type="tgmp.wood.elder" GUID="8R9+/iV1L069QpDmc+CmPw=="/>
+		<POI MapID="51" xpos="-906.602" ypos="36.1153" zpos="-549.724" type="tgmp.plant.cayennepepper" GUID="6R2+PRfnh0msUg7f83cYaQ=="/>
+		<POI MapID="51" xpos="-259.327" ypos="1.33774" zpos="-733.05" type="tgmp.plant.orriantruffle" GUID="8DyBdUaxFUCXbf6jp2ncaw=="/>
+		<POI MapID="51" xpos="-246.943" ypos="0.65687" zpos="-577.642" type="tgmp.ore.normal.mithril" GUID="VATA94Fm1k6wY5t9wbjroA=="/>
+		<POI MapID="51" xpos="-378.049" ypos="7.34836" zpos="-403.771" type="tgmp.wood.elder" GUID="+KYSUmC0EE2q6nyWwYqsVQ=="/>
+		<POI MapID="51" xpos="-685.041" ypos="7.21905" zpos="177.498" type="tgmp.plant.cayennepepper" GUID="elNAF+CL1UiEbjqq+VAr3Q=="/>
+		<POI MapID="51" xpos="-679.526" ypos="8.73056" zpos="135.524" type="tgmp.wood.elder" GUID="qX5SQ2ZlP0iATnL9/kcyTg=="/>
+		<POI MapID="51" xpos="-912.563" ypos="18.6651" zpos="243.922" type="tgmp.ore.normal.mithril" GUID="upbv/N3KnUiX6GJr0G455A=="/>
+		<POI MapID="51" xpos="-881.242" ypos="13.9334" zpos="-142.052" type="tgmp.wood.elder" GUID="TytfhgL0ukG4QcK883hWyQ=="/>
+		<POI MapID="51" xpos="-670.453" ypos="30.8675" zpos="-68.9214" type="tgmp.wood.elder" GUID="o54Gw+EQmU+h1MCij7+M5Q=="/>
+		<POI MapID="51" xpos="-575.286" ypos="32.2771" zpos="-125.231" type="tgmp.wood.elder" GUID="Nw8m1za+rUq4Mo3hu8kspA=="/>
+		<POI MapID="51" xpos="-519.781" ypos="22.0861" zpos="-285.143" type="tgmp.wood.elder" GUID="9iHqJXLrFkykmJKv+zYhWA=="/>
+		<POI MapID="51" xpos="-897.702" ypos="36.5933" zpos="-344.231" type="tgmp.wood.elder" GUID="W2gBtPfR/EyZUZICGLuuSw=="/>
+		<POI MapID="51" xpos="-924.211" ypos="58.8912" zpos="-270.715" type="tgmp.ore.normal.mithril" GUID="ZAdpjgSDxkOgn2VXcB/eKA=="/>
+		<POI MapID="51" xpos="-938.557" ypos="45.981" zpos="-516.249" type="tgmp.plant.orriantruffle" GUID="ct3RqIRlP0uVWg7M3x4YdQ=="/>
+		<POI MapID="51" xpos="-843.162" ypos="28.3336" zpos="-546.314" type="tgmp.plant.cayennepepper" GUID="98yx7b/Bo0WCK9+NIQfJCg=="/>
+		<POI MapID="51" xpos="-705.747" ypos="41.6423" zpos="-721.986" type="tgmp.plant.orriantruffle" GUID="x7h53MD7MkiZN09on74uNw=="/>
+		<POI MapID="51" xpos="-928.618" ypos="57.575" zpos="-260.467" type="fast_guides.straits_of_devastation.chest" GUID="gJeTrv77AkKS3IpiA73j6w=="/>
+		<POI MapID="51" xpos="-822.796" ypos="36.6943" zpos="-322.687" type="tgmp.wood.elder" GUID="YHAx8ciMAEK9/TeY92bqhw=="/>
+		<POI MapID="51" xpos="-430.763" ypos="23.6089" zpos="98.2071" type="tgmp.wood.elder" GUID="o0jbyz6uyk2vgp8vnweFaQ=="/>	
+		<POI MapID="51" xpos="-437.406" ypos="26.7884" zpos="-543.742" type="tgmp.ore.normal.mithril" GUID="mwPNZA66bEOKRtLWxaTj7Q=="/>
+		<POI MapID="51" xpos="-326.226" ypos="4.28475" zpos="-379.148" type="tgmp.ore.normal.mithril" GUID="ng1F9JhpgESsALd6MeG7Pg=="/>
+		<POI MapID="51" xpos="-719.119" ypos="23.5437" zpos="317.959" type="tgmp.wood.elder" GUID="AaYE5Ok5i0+2TgLPGQQYBQ=="/>
+		<POI MapID="51" xpos="-841.091" ypos="23.005" zpos="282.753" type="tgmp.ore.normal.mithril" GUID="+XN3G1rj3EK4jSHPTzc8qg=="/>
+		<POI MapID="51" xpos="-942.462" ypos="24.3838" zpos="263.225" type="tgmp.ore.normal.mithril" GUID="SuH56PfESEOcXuHXXKTP4w=="/>
+		<POI MapID="51" xpos="-670.638" ypos="27.0875" zpos="-114.233" type="tgmp.wood.elder" GUID="KTxqJQ7iWEWAJkPmtfH/QQ=="/>
+		<POI MapID="51" xpos="-552.913" ypos="26.9262" zpos="-360.409" type="tgmp.ore.normal.mithril" GUID="nws2KTp6PkKaNK+7O+zYqg=="/>
+		<POI MapID="51" xpos="-764.062" ypos="27.9123" zpos="-180.132" type="tgmp.plant.orriantruffle" GUID="zPxVmpH20kOA9HUt4/sIig=="/>
+		<POI MapID="51" xpos="-798.398" ypos="34.5142" zpos="-122.478" type="tgmp.wood.elder" GUID="rG9nWqRNhUGAOSUYBtdQlA=="/>
+		<POI MapID="51" xpos="-908.368" ypos="12.6726" zpos="-136.288" type="tgmp.wood.elder" GUID="DZIPlhyFR0GS0VazBVHwNg=="/>
+		<POI MapID="51" xpos="-879.22" ypos="37.8269" zpos="-229.305" type="tgmp.ore.normal.mithril" GUID="J59QxFzL9UauMJ3Gp2YPCw=="/>
+		<POI MapID="51" xpos="-862.844" ypos="37.4242" zpos="-423.721" type="tgmp.plant.cayennepepper" GUID="354Kzp36+06adnIdASK5Aw=="/>
+		<POI MapID="51" xpos="-797.339" ypos="39.1898" zpos="-559.178" type="tgmp.plant.orriantruffle" GUID="TAuzFdD7L06AHMptJ7F+cA=="/>
+		<POI MapID="51" xpos="-241.823" ypos="0.459616" zpos="-734.193" type="tgmp.ore.normal.mithril" GUID="ScJ6AXTqFUmGiDljJSeHng=="/>
+		<POI MapID="51" xpos="-173.833" ypos="12.306" zpos="-744.199" type="tgmp.ore.normal.mithril" GUID="Strm+XFWIk6/nnJD+i/Mmg=="/>
+		<POI MapID="51" xpos="-441.262" ypos="13.019" zpos="-758.375" type="tgmp.plant.orriantruffle" GUID="l0SJZARL4Eqz4W8oT5S5jQ=="/>
+		<POI MapID="51" xpos="-432.124" ypos="23.0167" zpos="110.695" type="tgmp.ore.normal.mithril" GUID="WmfUJS9k50GU5dVyIcO+cw=="/>
+		<POI MapID="51" xpos="-588.041" ypos="12.7904" zpos="226.308" type="tgmp.wood.elder" GUID="x7+JHjPv/UG4cDSXrJA1ag=="/>
+		<POI MapID="51" xpos="-848.63" ypos="27.02" zpos="-138.111" type="tgmp.plant.orriantruffle" GUID="xOCYPvM8xEm9e4dYgjE9gA=="/>
+		<POI MapID="51" xpos="-662.438" ypos="31.5142" zpos="-0.712582" type="tgmp.wood.elder" GUID="qfxbsqm5ckSJHS+vZqrmOg=="/>
+		<POI MapID="51" xpos="-650.736" ypos="6.37863" zpos="90.4429" type="tgmp.wood.elder" GUID="ayqK6C4JJkWNoHPMthkKmA=="/>
+		<POI MapID="51" xpos="-640.064" ypos="29.4084" zpos="-74.273" type="tgmp.ore.normal.mithril" GUID="Z11uaVVt3kSYwuyT9SfqHg=="/>
+		<POI MapID="51" xpos="-593.354" ypos="36.3075" zpos="-207.557" type="tgmp.wood.elder" GUID="IcSpeol78U2t7aSn3YiZ7w=="/>
+		<POI MapID="51" xpos="-532.25" ypos="31.7927" zpos="-193.293" type="tgmp.ore.normal.mithril" GUID="96MZqNnJHkWYTBNiczwMPw=="/>
+		<POI MapID="51" xpos="-625.155" ypos="34.8281" zpos="-286.862" type="tgmp.wood.elder" GUID="4mP9DXGtvEq6NM5dT3XYWQ=="/>
+		<POI MapID="51" xpos="-656.466" ypos="47.0559" zpos="-305.134" type="tgmp.wood.elder" GUID="dW8GwKApmkirxncivJtf9A=="/>
+		<POI MapID="51" xpos="-677.416" ypos="47.4176" zpos="-330.143" type="tgmp.wood.elder" GUID="SiRPZJxr0kGL8dKfeHiBqQ=="/>
+		<POI MapID="51" xpos="-781.299" ypos="30.6901" zpos="-390.285" type="tgmp.plant.orriantruffle" GUID="ZViPRa4EC0uIW7rjvTLQWQ=="/>
+		<POI MapID="51" xpos="-812.993" ypos="35.5063" zpos="-275.95" type="tgmp.wood.elder" GUID="tQ4BrXIAv0SqbF+wfRSzWw=="/>
+		<POI MapID="51" xpos="-386.639" ypos="13.8876" zpos="-757.75" type="tgmp.plant.orriantruffle" GUID="bAt5hH3trEmNo8IzDsWtGg=="/>
+		<POI MapID="51" xpos="-227.026" ypos="4.18102" zpos="-432.652" type="tgmp.wood.elder" GUID="WK7UUQtzdEKpXxsiSVYmXQ=="/>
+		<POI MapID="51" xpos="-273.769" ypos="8.4691" zpos="-264.976" type="tgmp.ore.normal.mithril" GUID="Z0FrUfEKp0SlXS8a4PHb4g=="/>
+		<POI MapID="51" xpos="-367.528" ypos="5.47316" zpos="189.08" type="tgmp.wood.elder" GUID="4skqh0qvOUOJvbEy7zOAYQ=="/>
+		<POI MapID="51" xpos="-633.426" ypos="4.20621" zpos="89.6416" type="tgmp.ore.normal.mithril" GUID="ivEnTvx0qUKQADxfP9m8Sg=="/>
+		<POI MapID="51" xpos="-685.494" ypos="18.2248" zpos="282.212" type="tgmp.wood.elder" GUID="aR9JFa5RWkCDsWvtVehsbw=="/>
+		<POI MapID="51" xpos="-726.017" ypos="22.7317" zpos="341.487" type="tgmp.ore.normal.mithril" GUID="ew1JZz1hy0iH1NykL9hkTw=="/>
+		<POI MapID="51" xpos="-685.48" ypos="54.7043" zpos="-358.553" type="tgmp.wood.elder" GUID="AUgh3srL9kChAtN++SJ7Bg=="/>
+		<POI MapID="51" xpos="-833.462" ypos="29.5389" zpos="-483.594" type="tgmp.plant.cayennepepper" GUID="l7cf+x9NOUik3Y7nynBmPg=="/>
+		<POI MapID="51" xpos="-812.027" ypos="27.9234" zpos="-446.966" type="tgmp.wood.elder" GUID="x4RDw9UbZEeFgQClgaS1Hw=="/>
+		<POI MapID="51" xpos="-875.755" ypos="36.2753" zpos="-550.516" type="tgmp.wood.elder" GUID="mWCa9m0AKku/KcQ4aRszsg=="/>
+		<POI MapID="51" xpos="-941.256" ypos="42.1058" zpos="-548.526" type="tgmp.ore.normal.mithril" GUID="XPJDUm8OcEGIG9g5LCflDQ=="/>
+		<POI MapID="51" xpos="-246.844" ypos="2.27036" zpos="-593.99" type="tgmp.plant.cayennepepper" GUID="Q8aa+lyuFUG+NPSGyD21jA=="/>
+		<POI MapID="51" xpos="-185.333" ypos="0.645062" zpos="-759.25" type="tgmp.ore.normal.mithril" GUID="+q3usTy5eUaA9LWoFozIsQ=="/>
+		<POI MapID="51" xpos="-315.66" ypos="28.4111" zpos="-716.274" type="tgmp.plant.cayennepepper" GUID="gWQ/9MEgsUK8B9MM8VByWA=="/>
+		<POI MapID="51" xpos="-530.717" ypos="13.2722" zpos="-699.987" type="tgmp.ore.normal.mithril" GUID="TbC8PLE9SUywp9oaUok2xw=="/>
+		<POI MapID="51" xpos="-388.614" ypos="30.2658" zpos="-646.261" type="tgmp.ore.normal.mithril" GUID="ClvjaaxuK0yqK5lKWCH59Q=="/>
+		<POI MapID="51" xpos="-398.79" ypos="30.2586" zpos="-600.476" type="tgmp.ore.normal.mithril" GUID="lSPVUR1VU0+hPHKDh0F8Vg=="/>
+		<POI MapID="51" xpos="-473.505" ypos="27.725" zpos="-587.222" type="tgmp.wood.elder" GUID="sC4m9WDKo0aMubYM4w65mA=="/>
+		<POI MapID="51" xpos="-294.936" ypos="3.64697" zpos="-298.302" type="tgmp.ore.normal.mithril" GUID="5PHotiXN2EG+EOqNrQDlUA=="/>
+		<POI MapID="51" xpos="-493.72" ypos="26.2379" zpos="157.183" type="tgmp.ore.normal.mithril" GUID="I71ZnsdoEkeCAxLhb4Docw=="/>
+		<POI MapID="51" xpos="-541.904" ypos="16.1219" zpos="248.197" type="tgmp.wood.elder" GUID="BbJ2iEnwF0aIMt/e31OAaA=="/>
+		<POI MapID="51" xpos="-906.793" ypos="17.5265" zpos="225.593" type="tgmp.wood.elder" GUID="e0RhLh0It0mkj/2w4yQe+w=="/>
+		<POI MapID="51" xpos="-744.355" ypos="1.74452" zpos="159.836" type="tgmp.ore.normal.mithril" GUID="o43+X5oGLkaoyALMLurtcw=="/>
+		<POI MapID="51" xpos="-750.546" ypos="11.0498" zpos="213.396" type="tgmp.ore.normal.mithril" GUID="v93q7AfphkmYU3qeqSlh2w=="/>
+		<POI MapID="51" xpos="-607.636" ypos="36.553" zpos="-338.455" type="tgmp.wood.elder" GUID="oWby8KJL0EmJzAuiH3PXoQ=="/>
+		<POI MapID="51" xpos="-647.968" ypos="44.2854" zpos="-226.868" type="tgmp.plant.cayennepepper" GUID="47QJ2o1e2E+FuYjHRmzjUw=="/>
+		<POI MapID="51" xpos="-468.266" ypos="13.1165" zpos="-708.036" type="tgmp.ore.normal.mithril" GUID="QtgGMuk0WUCkbGShiImrjA=="/>
+		<POI MapID="51" xpos="-587.319" ypos="16.7982" zpos="-734.886" type="tgmp.plant.orriantruffle" GUID="RwJCLznUMUa6eui5av6lQA=="/>
+		<POI MapID="51" xpos="-500.98" ypos="13.2151" zpos="-802.003" type="tgmp.ore.normal.mithril" GUID="KX5BKluSw0uVVIEHI9Nj4w=="/>
+		<POI MapID="51" xpos="-360.072" ypos="6.20769" zpos="-390.549" type="tgmp.wood.elder" GUID="39m1NkVNskSnq6Y1lYE1uw=="/>
+		<POI MapID="51" xpos="-503.949" ypos="22.6845" zpos="167.584" type="tgmp.wood.elder" GUID="Yx7oaV5JFEa+Dq3qmG5cJg=="/>
+		<POI MapID="51" xpos="-640.89" ypos="34.2443" zpos="-33.1959" type="tgmp.wood.elder" GUID="/k087s5fHUuEz2atfrlLdg=="/>
+		<POI MapID="51" xpos="-772.3" ypos="32.4912" zpos="-140.349" type="tgmp.wood.elder" GUID="gOdyyoPp9kWVld0c8uk9uQ=="/>
+		<POI MapID="51" xpos="-510.274" ypos="13.3193" zpos="-780.602" type="tgmp.plant.orriantruffle" GUID="aVHHdIT5UEexp3HBraZ0Yg=="/>
+		<POI MapID="51" xpos="-561.926" ypos="114.5" zpos="-511.417" type="tgmp.ore.normal.mithril" GUID="m9IZVDgt4USYx+sgj3MIgQ=="/>
+		<POI MapID="51" xpos="-534.818" ypos="42.4255" zpos="47.0103" type="tgmp.ore.normal.mithril" GUID="1M0N3d+jikiOHaWskmzuvA=="/>
+		<POI MapID="51" xpos="-692.059" ypos="20.5865" zpos="308.767" type="tgmp.ore.normal.mithril" GUID="ZOpTlecswECZl9ppO9pYuw=="/>
+		<POI MapID="51" xpos="-891.443" ypos="8.69145" zpos="100.916" type="tgmp.ore.normal.mithril" GUID="DwUpNdSsRUiyaWr+40/LRw=="/>
+		<POI MapID="51" xpos="-549.006" ypos="24.1478" zpos="-336.69" type="tgmp.wood.elder" GUID="cNIph/5edkmw6LdZy+StKg=="/>
+		<POI MapID="51" xpos="-871.604" ypos="38.6426" zpos="-487.527" type="tgmp.ore.normal.mithril" GUID="V8IApzn+WUeQzmMyZ2WFbQ=="/>
+		<POI MapID="51" xpos="-660.113" ypos="33.4137" zpos="-714.896" type="tgmp.ore.normal.mithril" GUID="R7lmxo35NkuwpiyBW/Buvw=="/>
+		<POI MapID="51" xpos="-729.809" ypos="3.47136" zpos="136.828" type="tgmp.wood.elder" GUID="+ouJpsp68k2YIA/M2xQXiw=="/>
+		<POI MapID="51" xpos="-708.025" ypos="27.9913" zpos="-208.105" type="tgmp.wood.elder" GUID="Xoy+pyV2MUCu48IDDf6Qsg=="/>
+		<POI MapID="51" xpos="-852.813" ypos="30.6606" zpos="-570.289" type="tgmp.ore.normal.mithril" GUID="slB0x8bnpEGHZ51chKFmIQ=="/>
+		<POI MapID="51" xpos="-753.772" ypos="15.4484" zpos="303.863" type="tgmp.wood.elder" GUID="D51MnkFUKkScEwwh8/appg=="/>
+		<POI MapID="51" xpos="-840.149" ypos="7.17235" zpos="96.1503" type="tgmp.wood.elder" GUID="e0nzw0fmFE2Q2BTtSIX7Zg=="/>
+		<POI MapID="51" xpos="-783.033" ypos="7.7641" zpos="200.884" type="tgmp.wood.elder" GUID="Om9hw/kSW0G3cCiM7Ic9JA=="/>
+		<POI MapID="51" xpos="-804.006" ypos="36.5065" zpos="-355.68" type="tgmp.wood.elder" GUID="vqaJW+8AEEmbFYlunNaBAg=="/>
+		<POI MapID="51" xpos="-872.196" ypos="9.24493" zpos="194.882" type="tgmp.plant.cayennepepper" GUID="7ZZJGzx5h0mniRD1k3GWBg=="/>
+		<POI MapID="51" xpos="-731.253" ypos="32.7643" zpos="-178.836" type="tgmp.wood.elder" GUID="NUYYIkE1O0Cn5zVYT0E31w=="/>
+		<POI MapID="51" xpos="-945.012" ypos="48.5419" zpos="-341.353" type="tgmp.ore.normal.mithril" GUID="mz2auLCo50+2WsFUKGSGYQ=="/>
+		<POI MapID="51" xpos="-431.798" ypos="36.4387" zpos="-232.969" type="tgmp.wood.elder" GUID="uITxI6ztJUG698yp7X0Olw=="/>
+		<POI MapID="51" xpos="-460.388" ypos="10.4748" zpos="-499.047" type="tgmp.wood.elder" GUID="mdTE+FqrUESGdSJIst5e8Q=="/>
+		<POI MapID="51" xpos="-442.382" ypos="23.438" zpos="75.5481" type="tgmp.ore.normal.mithril" GUID="z5j3UMZCWkamHh/RZuju1Q=="/>
+		<POI MapID="51" xpos="-785.077" ypos="38.0829" zpos="-300.108" type="tgmp.wood.elder" GUID="d9KgT8ODwE+8yYCjw04oVg=="/>
+		<POI MapID="51" xpos="-310.438" ypos="2.26588" zpos="-339.889" type="tgmp.wood.elder" GUID="XbDVpSbvqE2IAdI1Ex/XpQ=="/>
+		<POI MapID="51" xpos="-645.166" ypos="5.3369" zpos="179.3" type="tgmp.wood.elder" GUID="Xj6DMXSdc0Gj9ZABl8x3sA=="/>
+		
+	</POIs>
+
+</OverlayData>
+
+
+
