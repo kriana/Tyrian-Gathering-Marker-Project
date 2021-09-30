@@ -9,6 +9,8 @@ You can download the source right from here, zip the files, and change the exten
 ## Which maps are done and how do I know which ones they are?
 I've set up a project showing the relative status of all Central Tyria maps and how much coverage they've gotten. As nodes change from day to day/map instance to map instance, it may take some time to aggregate them all. Also, Tyria is huge!
 
+Please note that I've set the markers to disappear when you press your interaction key on the node. You must set this key in TacO for this feature to work unless you have it set to the default (F). The markers will reappear after 1 hour, which I've been told is the default respawn time of a normal node.
+
 ## What is TacO anyway?
 TacO is an awesome overlay for Guild Wars 2, built by BoyC.2653. For more information about TacO, check out [it's website](http://www.gw2taco.com/)
 
