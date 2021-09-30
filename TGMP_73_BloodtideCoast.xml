@@ -62,7 +62,7 @@
 			<MarkerCategory name="YoungHerbs" DisplayName="Young Herbs" iconFile="Data\KRI_Herbs.png"/>
 		</MarkerCategory>
 		<MarkerCategory name="JunglePlants" DisplayName="Jungle Plants" iconFile="Data\KRI_JunglePlants.png"/>
-		<MarkerCategory name="Kale"/>
+		<MarkerCategory name="Kale" iconFile="Data\KRI_Kale.png"/>
 		<MarkerCategory name="Leeks" iconFile="Data\KRI_Leek.png"/>
 		<MarkerCategory name="Lettuce" iconFile="Data\KRI_Lettuce.png"/>
 		<MarkerCategory name="Lotus" iconFile="Data\KRI_Lotus.png"/>

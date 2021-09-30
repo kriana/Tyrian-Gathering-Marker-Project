@@ -62,7 +62,7 @@
 			<MarkerCategory name="YoungHerbs" DisplayName="Young Herbs" iconFile="Data\KRI_Herbs.png"/>
 		</MarkerCategory>
 		<MarkerCategory name="JunglePlants" DisplayName="Jungle Plants" iconFile="Data\KRI_JunglePlants.png"/>
-		<MarkerCategory name="Kale"/>
+		<MarkerCategory name="Kale" iconFile="Data\KRI_Kale.png"/>
 		<MarkerCategory name="Leeks" iconFile="Data\KRI_Leek.png"/>
 		<MarkerCategory name="Lettuce" iconFile="Data\KRI_Lettuce.png"/>
 		<MarkerCategory name="Lotus" iconFile="Data\KRI_Lotus.png"/>
@@ -278,5 +278,16 @@
 		<POI MapID="23" xpos="784.135" ypos="18.8509" zpos="-289.943" type="tgmp.plant.tgmpmushrooms.buttonmushroom" GUID="gre7bENauUK78bcob5H2kQ=="/>
 		<POI MapID="23" xpos="762.368" ypos="20.6522" zpos="-290.494" type="tgmp.ore.rich.iron" GUID="SbpXbILBaE6ztp3PD1kByg=="/>
 		<POI MapID="23" xpos="816.941" ypos="0.223797" zpos="325.577" type="tgmp.ore.normal.silver" GUID="phnZ51OJpUKFaBTGo3Lb9A=="/>
+		<POI MapID="23" xpos="456.188" ypos="47.0058" zpos="-61.1168" type="resourcenode.ore.normal.iron" GUID="H4WlKbiMcEGsieP5V1YhNw=="/>
+		<POI MapID="23" xpos="383.455" ypos="48.1053" zpos="-432.285" type="tgmp.plant.tgmprootvegetables.taproots" GUID="sqr7FFsW90SowlKFd7HvxA=="/>
+		<POI MapID="23" xpos="454.023" ypos="61.9712" zpos="-450.103" type="tgmp.ore.normal.iron" GUID="MnvFe+OEjkmJqaNIDAh6tw=="/>
+		<POI MapID="23" xpos="-627.065" ypos="4.86309" zpos="-380.6" type="tgmp.ore.normal.iron" GUID="xCmXL1FxZk6+LZCIIVZN/w=="/>
+		<POI MapID="23" xpos="-427.642" ypos="5.35217" zpos="-421.386" type="tgmp.plant.tgmpherbs.herbsprouts" GUID="VKWxPfrff02AJhrzDKxIuQ=="/>
+		<POI MapID="23" xpos="-192.556" ypos="25.3272" zpos="-512.772" type="tgmp.plant.tgmpmushrooms.buttonmushroom" GUID="lSNzQrcfBk+/mER6/QRIWA=="/>
+		<POI MapID="23" xpos="-180.441" ypos="25.4642" zpos="-515.271" type="tgmp.ore.normal.iron" GUID="31/rUQbNP0C9/2ujQc1LnQ=="/>
+		<POI MapID="23" xpos="-74.7191" ypos="36.0456" zpos="-508.15" type="tgmp.plant.onions" GUID="O0XKThAgh0+GSD1uKcaIpA=="/>
+		<POI MapID="23" xpos="5.52489" ypos="29.8388" zpos="-476.329" type="tgmp.ore.normal.iron" GUID="KxLqTfwxeUq9llLe7fU8Yw=="/>
+		<POI MapID="23" xpos="294.913" ypos="53.7295" zpos="-520.139" type="tgmp.wood.soft" GUID="Wdst3BWGFUidChJQTPe5Cg=="/>
+		<POI MapID="23" xpos="849.987" ypos="30.7653" zpos="-237.138" type="tgmp.plant.tgmpmushrooms.buttonmushroom" GUID="riY0zxN04EG7tktF4IY6UQ=="/>
 	</POIs>
 </OverlayData>
