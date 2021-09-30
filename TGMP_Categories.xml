@@ -14,7 +14,7 @@
 	</MarkerCategory>
 	
 <!-- TGMP Categorization: Ore -->
-	<MarkerCategory name="Ore" behavior="4" resetLength="7200" iconFile="Data\Ore.png">
+	<MarkerCategory name="Ore" behavior="4" resetLength="3600" iconFile="Data\Ore.png">
 		<MarkerCategory name="Normal">
 			<MarkerCategory name="Copper" iconFile="Data\KRI_Copper_Ore.png"/>
 			<MarkerCategory name="Iron" iconFile="Data\KRI_Iron_Ore.png"/>
@@ -36,7 +36,7 @@
     </MarkerCategory>
 	
 <!-- TGMP Categorization: Plants -->
-    <MarkerCategory name="Plant" behavior="4" resetLength="7200" iconFile="Data\Plant.png">
+    <MarkerCategory name="Plant" behavior="4" resetLength="3600" iconFile="Data\Plant.png">
         <MarkerCategory name="Artichoke" iconFile="Data\KRI_Artichoke.png"/>
         <MarkerCategory name="Asparagus" iconFile="Data\KRI_Asparagus.png"/>
 		<MarkerCategory name="Blackberries"  iconFile="Data\KRI_Blackberry.png"/>

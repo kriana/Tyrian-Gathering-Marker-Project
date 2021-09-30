@@ -3,7 +3,7 @@
 <MarkerCategory name="tgmp" DisplayName="Tyrian Gathering Marker Project">
 
 <!-- TGMP Categorization: Wood -->
-	<MarkerCategory name="Wood" behavior="4" resetLength="7200" iconFile="Data\Wood.png">
+	<MarkerCategory name="Wood" behavior="4" resetLength="3600" iconFile="Data\Wood.png">
 		<MarkerCategory name="Green" iconFile="Data\KRI_Green_Wood_Log.png"/>
 		<MarkerCategory name="Soft" iconFile="Data\KRI_Soft_Wood_Log.png"/>
 		<MarkerCategory name="Seasoned" iconFile="Data\KRI_Seasoned_Wood_Log.png"/>
@@ -13,7 +13,7 @@
 	</MarkerCategory>
 	
 <!-- TGMP Categorization: Ore -->
-	<MarkerCategory name="Ore" behavior="4" resetLength="7200" iconFile="Data\Ore.png">
+	<MarkerCategory name="Ore" behavior="4" resetLength="3600" iconFile="Data\Ore.png">
 		<MarkerCategory name="Normal">
 			<MarkerCategory name="Copper" iconFile="Data\KRI_Copper_Ore.png"/>
 			<MarkerCategory name="Iron" iconFile="Data\KRI_Iron_Ore.png"/>
@@ -34,7 +34,7 @@
 		</MarkerCategory>
     </MarkerCategory>
 <!-- TGMP Categorization: Plants -->
-    <MarkerCategory name="Plant" behavior="4" resetLength="7200" iconFile="Data\Plant.png">
+    <MarkerCategory name="Plant" behavior="4" resetLength="3600" iconFile="Data\Plant.png">
         <MarkerCategory name="Artichoke" iconFile="Data\KRI_Artichoke.png"/>
         <MarkerCategory name="Asparagus" iconFile="Data\KRI_Asparagus.png"/>
 		<MarkerCategory name="Blackberries"  iconFile="Data\KRI_Blackberry.png"/>
