@@ -1,0 +1,195 @@
+<OverlayData>
+<!-- TGMP Categorization -->
+<MarkerCategory name="tgmp" DisplayName="Tyrian Gathering Marker Project">
+
+<!-- TGMP Categorization: Wood -->
+	<MarkerCategory name="Wood" behavior="4" resetLength="3600" iconFile="Data\Wood.png">
+		<MarkerCategory name="Green" iconFile="Data\KRI_Green_Wood_Log.png"/>
+		<MarkerCategory name="Soft" iconFile="Data\KRI_Soft_Wood_Log.png"/>
+		<MarkerCategory name="Seasoned" iconFile="Data\KRI_Seasoned_Wood_Log.png"/>
+		<MarkerCategory name="Hard" iconFile="Data\KRI_Hard_Wood_Log.png"/>
+		<MarkerCategory name="Elder" iconFile="Data\KRI_Elder_Wood_Log.png"/>
+		<MarkerCategory name="Ancient" iconFile="Data\KRI_Ancient_Wood_Log.png"/>
+	</MarkerCategory>
+	
+<!-- TGMP Categorization: Ore -->
+	<MarkerCategory name="Ore" behavior="4" resetLength="3600" iconFile="Data\Ore.png">
+		<MarkerCategory name="Normal">
+			<MarkerCategory name="Copper" iconFile="Data\KRI_Copper_Ore.png"/>
+			<MarkerCategory name="Iron" iconFile="Data\KRI_Iron_Ore.png"/>
+			<MarkerCategory name="Silver" iconFile="Data\KRI_Silver_Ore.png"/>
+			<MarkerCategory name="Gold" iconFile="Data\KRI_Gold_Ore.png"/>
+			<MarkerCategory name="Platinum" iconFile="Data\KRI_Platinum_Ore.png"/>
+			<MarkerCategory name="Mithril" iconFile="Data\KRI_Mithril_Ore.png"/>
+			<MarkerCategory name="Orichalcum" iconFile="Data\KRI_Orichalcum_Ore.png"/>
+		</MarkerCategory>
+		<MarkerCategory name="Rich">
+			<MarkerCategory name="Copper" iconFile="Data\KRI_Copper_Ore.png"/>
+			<MarkerCategory name="Iron" iconFile="Data\KRI_Iron_Ore.png"/>
+			<MarkerCategory name="Silver" iconFile="Data\KRI_Silver_Ore.png"/>
+			<MarkerCategory name="Gold" iconFile="Data\KRI_Gold_Ore.png"/>
+			<MarkerCategory name="Platinum" iconFile="Data\KRI_Platinum_Ore.png"/>
+			<MarkerCategory name="Mithril" iconFile="Data\KRI_Mithril_Ore.png"/>
+			<MarkerCategory name="Orichalcum" iconFile="Data\KRI_Orichalcum_Ore.png"/>
+		</MarkerCategory>
+    </MarkerCategory>
+<!-- TGMP Categorization: Plants -->
+    <MarkerCategory name="Plant" behavior="4" resetLength="3600" iconFile="Data\Plant.png">
+        <MarkerCategory name="Artichoke" iconFile="Data\KRI_Artichoke.png"/>
+        <MarkerCategory name="Asparagus" iconFile="Data\KRI_Asparagus.png"/>
+		<MarkerCategory name="Blackberries"  iconFile="Data\KRI_Blackberry.png"/>
+		<MarkerCategory name="BlueberryBush" DisplayName="Blueberry Bush" iconFile="Data\KRI_Blueberry.png" />
+		<MarkerCategory name="BlackCrocus" DisplayName="Black Crocus" iconFile="Data\KRI_BlackCrocus.png"/>
+        <MarkerCategory name="ButternutSquash" DisplayName="Butternut Squash" iconFile="Data\KRI_ButternutSquash.png"/>
+        <MarkerCategory name="Cabbage" iconFile="Data\KRI_Cabbage.png"/>
+		<MarkerCategory name="Cactus" iconFile="Data\KRI_Cactus.png"/>		
+		<MarkerCategory name="Carrots" iconFile="Data\KRI_Carrot.png" />
+		<MarkerCategory name="Cauliflower" iconFile="Data\KRI_Cauliflower.png"/>
+		<MarkerCategory name="CayennePepper" DisplayName="Cayenne Pepper" iconFile="Data\KRI_Cayenne.png"/>
+		<MarkerCategory name="Clam" iconFile="Data\KRI_Clam.png"/>
+		<MarkerCategory name="Coral" iconFile="Data\KRI_Coral.png"/>
+		<MarkerCategory name="Flax" iconFile="Data\KRI_Flax.png"/>
+		<MarkerCategory name="GhostPepper" DisplayName="Ghost Pepper" iconFile="Data\KRI_GhostPepper.png"/>
+		<MarkerCategory name="Grapes" iconFile="Data\KRI_Grape.png"/>
+		<MarkerCategory name="TGMPHerbs" DisplayName="Herbs">
+			<MarkerCategory name="HerbSeedlings" DisplayName="Cluster of Desert Herbs" iconFile="Data\KRI_Herbs.png"/>
+		    <MarkerCategory name="ClusterOfHerbs" DisplayName="Cluster of Herbs" iconFile="Data\KRI_Herbs.png"/>
+		    <MarkerCategory name="HerbPatch" DisplayName="Herb Patch" iconFile="Data\KRI_Herbs.png" />
+			<MarkerCategory name="HerbSeedlings" DisplayName="Herb Seedlings" iconFile="Data\KRI_Herbs.png"/>
+			<MarkerCategory name="HerbSprouts" DisplayName="Herb Sprouts" iconFile="Data\KRI_Herbs.png"/>
+			<MarkerCategory name="MatureHerbs" DisplayName="Mature Herbs" iconFile="Data\KRI_Herbs.png"/>
+			<MarkerCategory name="VerdantHerbs" DisplayName="Verdant Herbs" iconFile="Data\KRI_Herbs.png"/>
+			<MarkerCategory name="YoungHerbs" DisplayName="Young Herbs" iconFile="Data\KRI_Herbs.png"/>
+		</MarkerCategory>
+		<MarkerCategory name="JunglePlants" DisplayName="Jungle Plants" iconFile="Data\KRI_JunglePlants.png"/>
+		<MarkerCategory name="Kale" iconFile="Data\KRI_Kale.png"/>
+		<MarkerCategory name="Leeks" iconFile="Data\KRI_Leek.png"/>
+		<MarkerCategory name="Lettuce" iconFile="Data\KRI_Lettuce.png"/>
+		<MarkerCategory name="Lotus" iconFile="Data\KRI_Lotus.png"/>
+		<MarkerCategory name="TGMPMushrooms" DisplayName="Mushrooms">
+			<MarkerCategory name="ButtonMushroom" DisplayName="Button Mushroom" iconFile="Data\KRI_Mushrooms.png" />
+			<MarkerCategory name="PortobelloMushrooms" DisplayName="Portobello Mushrooms" iconFile="Data\KRI_Mushrooms.png"/>
+		    <MarkerCategory name="VariedMushrooms" DisplayName="Varied Mushrooms" iconFile="Data\KRI_Mushrooms.png"/>
+		</MarkerCategory>
+		<MarkerCategory name="Mussels" iconFile="Data\KRI_Mussel.png"/>
+		<MarkerCategory name="Omnomberries" iconFile="Data\KRI_Omnomberry.png"/>
+		<MarkerCategory name="Onions" iconFile="Data\KRI_Onion.png"/>
+		<MarkerCategory name="OrrianTruffle" DisplayName="Orrian Truffle" iconFile="Data\KRI_OrrianTruffle.png"/>
+		<MarkerCategory name="Passiflora" iconFile="Data\KRI_Passiflora.png"/>
+		<MarkerCategory name="Potato" iconFile="Data\KRI_Potato.png"/>
+		<MarkerCategory name="Raspberries" iconFile="Data\KRI_Raspberry.png"/>
+		<MarkerCategory name="TGMPRootVegetables" DisplayName ="Roots">
+			<MarkerCategory name="RootVegetables" DisplayName="Root Vegetables" iconFile="Data\KRI_Taproots.png"/>
+			<MarkerCategory name="Taproots" iconFile="Data\KRI_Taproots.png"/>
+			<MarkerCategory name="VariegatedTaproots" DisplayName="Variegated Taproots" iconFile="Data\KRI_Taproots.png"/>
+			<MarkerCategory name="WinterRootVegetables" DisplayName="Winter Root Vegetables" iconFile="Data\KRI_Taproots.png"/>
+		</MarkerCategory>
+		<MarkerCategory name="SawgillMushrooms" DisplayName="Sawgill Mushrooms" iconFile="Data\KRI_Sawgill.png"/>
+		<MarkerCategory name="Scallions" iconFile="Data\KRI_Scallions.png" />
+		<MarkerCategory name="Seaweed" iconFile="Data\KRI_Seaweed.png"/>
+		<MarkerCategory name="SnowTruffle" DisplayName="Snow Truffle" iconFile="Data\KRI_SnowTruffle.png"/>
+		<MarkerCategory name="Spinach" iconFile="Data\KRI_Spinach.png"/>
+		<MarkerCategory name="StrawberryPatch" DisplayName="Strawberry Patch" iconFile="Data\KRI_Strawberry.png"/>
+		<MarkerCategory name="SugarPumpkin" DisplayName="Sugar Pumpkin" iconFile="Data\KRI_Pumpkin.png"/>
+		<MarkerCategory name="Zucchini" iconFile="Data\KRI_Zucchini.png"/>
+      </MarkerCategory>
+    </MarkerCategory>
+	<POIs>
+		<POI MapID="21" xpos="362.506" ypos="13.432" zpos="-466.514" type="tgmp.plant.tgmpmushrooms.portobellomushrooms" GUID="YGTkoBjEaEqLjw5+8T11Iw=="/>
+		<POI MapID="21" xpos="344.126" ypos="14.0894" zpos="-451.229" type="tgmp.plant.tgmpmushrooms.portobellomushrooms" GUID="M9UygOjT5EiHqiuK/QWWig=="/>
+		<POI MapID="21" xpos="381.998" ypos="26.2103" zpos="-386.741" type="tgmp.ore.normal.iron" GUID="UkgpoEzzw0uI5N3cNp2A2w=="/>
+		<POI MapID="21" xpos="340.173" ypos="40.8663" zpos="-378.456" type="tgmp.ore.normal.iron" GUID="DsN79vqLp0SOt58jeOdGwQ=="/>
+		<POI MapID="21" xpos="139.955" ypos="32.5538" zpos="-426.358" type="tgmp.ore.normal.iron" GUID="0wYcCasmvEWo/HQMKSHSTQ=="/>
+		<POI MapID="21" xpos="27.0106" ypos="18.3667" zpos="-564.961" type="tgmp.ore.normal.iron" GUID="OzXrkFYgs0K5WoFaTSM9xA=="/>
+		<POI MapID="21" xpos="56.9114" ypos="25.303" zpos="-700.084" type="tgmp.wood.soft" GUID="Z1gGXSyJ+EiEf4By8Yds/A=="/>
+		<POI MapID="21" xpos="122.927" ypos="32.9662" zpos="-798.96" type="tgmp.wood.soft" GUID="mKMxI+liHUGneLPGRAlmlg=="/>
+		<POI MapID="21" xpos="159.835" ypos="46.1275" zpos="-675.58" type="tgmp.plant.tgmprootvegetables.rootvegetables" GUID="UAPZHVITGUm2iQDn3WizfA=="/>
+		<POI MapID="21" xpos="405.744" ypos="30.8654" zpos="-618.736" type="tgmp.wood.soft" GUID="LkaPq53bLkKv5UWiukfy9A=="/>
+		<POI MapID="21" xpos="498.183" ypos="27.5208" zpos="-662.465" type="tgmp.wood.soft" GUID="xtvRmz2HCUKqQyOoCb2VMQ=="/>
+		<POI MapID="21" xpos="505.523" ypos="29.1377" zpos="-723.164" type="tgmp.wood.soft" GUID="nEgEfiEa/0qCOTXwGnn2IA=="/>
+		<POI MapID="21" xpos="438.226" ypos="30.8783" zpos="-654.532" type="tgmp.wood.soft" GUID="Owd3OzlQoEe/h8TGnB8Xmg=="/>
+		<POI MapID="21" xpos="600.479" ypos="65.17" zpos="-741.226" type="tgmp.ore.normal.silver" GUID="1xwHec7ymUCl1bPREKqB8Q=="/>
+		<POI MapID="21" xpos="536.902" ypos="34.0269" zpos="-812.533" type="tgmp.plant.grapes" GUID="h1/LzdyPh0+P3TeyTRWUjg=="/>
+		<POI MapID="21" xpos="546.098" ypos="33.6866" zpos="-820.148" type="tgmp.plant.grapes" GUID="ILucrHN5dUm0ZS1sXC7Biw=="/>
+		<POI MapID="21" xpos="539.586" ypos="35.1526" zpos="-831.842" type="tgmp.plant.grapes" GUID="kh1avF2J9kaOh9jp2a8H7Q=="/>
+		<POI MapID="21" xpos="535.004" ypos="36.5446" zpos="-841.28" type="tgmp.plant.grapes" GUID="Zqvvxgfxe0S+MkEZK0vr2A=="/>
+		<POI MapID="21" xpos="536.293" ypos="37.2239" zpos="-849.992" type="tgmp.plant.grapes" GUID="7N8TGmSiAkaMy+5avV74rA=="/>
+		<POI MapID="21" xpos="549.281" ypos="35.4789" zpos="-840.518" type="tgmp.plant.grapes" GUID="vu25xuF90kej2AuPnPCoBw=="/>
+		<POI MapID="21" xpos="557.863" ypos="36.2459" zpos="-851.856" type="tgmp.plant.grapes" GUID="3PwRMcQAYkGzfJ/8+TwRRA=="/>
+		<POI MapID="21" xpos="558.334" ypos="34.1979" zpos="-833.513" type="tgmp.plant.grapes" GUID="KngqVjjO7USQJZtXB9CPTA=="/>
+		<POI MapID="21" xpos="653.682" ypos="48.6152" zpos="-854.471" type="tgmp.plant.tgmprootvegetables.rootvegetables" GUID="qhf+9jI5ME6ZtJYwRrl6eA=="/>
+		<POI MapID="21" xpos="731.054" ypos="48.4512" zpos="-867.065" type="tgmp.ore.normal.iron" GUID="ZoH81Z/u9EaSqBCUGUV+Bw=="/>
+		<POI MapID="21" xpos="786.328" ypos="41.0748" zpos="-669.924" type="tgmp.ore.normal.silver" GUID="cwpyy8ZdH0iRRMyy4jO1bA=="/>
+		<POI MapID="21" xpos="764.301" ypos="55.5899" zpos="-536.986" type="tgmp.ore.normal.silver" GUID="6sPWZB7KI0exOPSCLfAtTQ=="/>
+		<POI MapID="21" xpos="767.228" ypos="56.773" zpos="-507.888" type="tgmp.wood.soft" GUID="AS35jEpMlE2GgWalGwfpqQ=="/>
+		<POI MapID="21" xpos="737.931" ypos="57.6891" zpos="-476.444" type="tgmp.ore.normal.silver" GUID="DtCX9EIoY0qsCv9HsIbidw=="/>
+		<POI MapID="21" xpos="612.089" ypos="43.494" zpos="-448.427" type="tgmp.ore.normal.iron" GUID="Cn3K70TgE0yuPdJzL+Dd/g=="/>
+		<POI MapID="21" xpos="582.301" ypos="42.5449" zpos="-485.199" type="tgmp.ore.normal.iron" GUID="v/X8v4fj20qdq+d78Ia34w=="/>
+		<POI MapID="21" xpos="-82.6172" ypos="19.7961" zpos="-280.774" type="tgmp.ore.normal.silver" GUID="P97VRmAv5ESPWRowzDz/hw=="/>
+		<POI MapID="21" xpos="-82.8457" ypos="15.5604" zpos="-265.339" type="tgmp.wood.soft" GUID="FE1TqpVeB0Wr9oFCsmeQMw=="/>
+		<POI MapID="21" xpos="-92.5578" ypos="14.2692" zpos="-173.562" type="tgmp.plant.tgmprootvegetables.rootvegetables" GUID="SqvtsG0hoEGqoX1EqkuDOg=="/>
+		<POI MapID="21" xpos="-46.149" ypos="15.1798" zpos="-121.965" type="tgmp.wood.soft" GUID="siExYInCkkCDVv/n85z0tw=="/>
+		<POI MapID="21" xpos="-225.45" ypos="16.0682" zpos="-66.0205" type="tgmp.plant.onions" GUID="4k8kiEnAFEWo8HJIUYi0sw=="/>
+		<POI MapID="21" xpos="-323.591" ypos="7.66916" zpos="-99.4435" type="tgmp.plant.zucchini" GUID="CI7at/kDNUyQZecNXZ9UuA=="/>
+		<POI MapID="21" xpos="-404.607" ypos="13.4377" zpos="16.6305" type="tgmp.wood.soft" GUID="b/yfjS0vF0CKU+42ImV4IA=="/>
+		<POI MapID="21" xpos="-479.228" ypos="7.18496" zpos="35.6146" type="tgmp.plant.zucchini" GUID="TTgd94v9vUyVXJPph3Ah9g=="/>
+		<POI MapID="21" xpos="-509.35" ypos="10.0112" zpos="52.8552" type="tgmp.plant.tgmprootvegetables.rootvegetables" GUID="u7IAVFiDTEidTYV0VuArsQ=="/>
+		<POI MapID="21" xpos="-387.237" ypos="16.3266" zpos="49.5052" type="tgmp.wood.soft" GUID="K83nlY4ZfkioDWvCCrZmbA=="/>
+		<POI MapID="21" xpos="-218.847" ypos="6.86062" zpos="36.2633" type="tgmp.plant.tgmpherbs.youngherbs" GUID="7JMI4OToBkK/4taFyHtsCg=="/>
+		<POI MapID="21" xpos="-169.119" ypos="4.68338" zpos="28.1649" type="tgmp.plant.kale" GUID="j/AvvAYSb0mh1nN7Oz63uA=="/>
+		<POI MapID="21" xpos="-334.008" ypos="12.1294" zpos="148.96" type="tgmp.plant.tgmprootvegetables.rootvegetables" GUID="dr/wGXvtnEeQzSWGJoDs5w=="/>
+		<POI MapID="21" xpos="-352.886" ypos="13.4868" zpos="154.434" type="tgmp.wood.soft" GUID="MFw8nIjto0iWPY/Rqfki8w=="/>
+		<POI MapID="21" xpos="-108.863" ypos="6.66003" zpos="149.328" type="tgmp.plant.onions" GUID="BnfqCXcA8UCo7RWkhztVFw=="/>
+		<POI MapID="21" xpos="139.056" ypos="14.9346" zpos="207.055" type="tgmp.plant.kale" GUID="SD+7oHNUa0+DUpQM9NjQXw=="/>
+		<POI MapID="21" xpos="129.116" ypos="17.6107" zpos="238.72" type="tgmp.wood.soft" GUID="TtoiGOz980G53C7CclLLIQ=="/>
+		<POI MapID="21" xpos="312.451" ypos="5.06781" zpos="390.913" type="tgmp.plant.onions" GUID="XpijaxczhkaG1RSO7SKZMA=="/>
+		<POI MapID="21" xpos="427.763" ypos="7.1649" zpos="400.069" type="tgmp.wood.seasoned" GUID="pV4+m5AauUSZHCimn6f7SA=="/>
+		<POI MapID="21" xpos="486.12" ypos="46.8169" zpos="390.807" type="tgmp.ore.normal.iron" GUID="mytbGFsyQ0GqYSzQ6Sv1jQ=="/>
+		<POI MapID="21" xpos="450.338" ypos="55.497" zpos="290.086" type="tgmp.ore.normal.iron" GUID="QMFpt+VJvkyP4z1pc+jBPA=="/>
+		<POI MapID="21" xpos="589.785" ypos="24.0306" zpos="421.901" type="tgmp.ore.normal.iron" GUID="isbqfgT550mTTbDHlwJOHg=="/>
+		<POI MapID="21" xpos="691.488" ypos="35.2572" zpos="445.092" type="tgmp.plant.tgmpmushrooms.portobellomushrooms" GUID="uEFadguVyUaymETv17GDYA=="/>
+		<POI MapID="21" xpos="638.075" ypos="14.3076" zpos="466.908" type="tgmp.ore.normal.iron" GUID="U5PvkyaAI0qNCQAQmpNOSQ=="/>
+		<POI MapID="21" xpos="629.742" ypos="13.3814" zpos="490.54" type="tgmp.plant.onions" GUID="9gR+XqlNW0CtMznFgQs5Iw=="/>
+		<POI MapID="21" xpos="620.889" ypos="16.2493" zpos="501.122" type="tgmp.ore.normal.iron" GUID="d4Iu1BLVzEOJ3brtbr9HtA=="/>
+		<POI MapID="21" xpos="593.873" ypos="18.6794" zpos="506.443" type="tgmp.ore.normal.silver" GUID="mIKjeviF3kyM7GS/i9Tagg=="/>
+		<POI MapID="21" xpos="537.564" ypos="20.5367" zpos="560.818" type="tgmp.ore.normal.gold" GUID="LjwwxbRf8Ea7O99UA5VJBA=="/>
+		<POI MapID="21" xpos="674.213" ypos="18.7937" zpos="506.073" type="tgmp.ore.normal.iron" GUID="pMUWSk1UMEO1HEuaOSs2uQ=="/>
+		<POI MapID="21" xpos="636.633" ypos="5.76625" zpos="604.487" type="tgmp.ore.normal.iron" GUID="kjERF5UkP0GjfBGyCSldeA=="/>
+		<POI MapID="21" xpos="635.151" ypos="12.8469" zpos="605.982" type="tgmp.ore.normal.iron" GUID="OmORYxGYOkChQHHEw1FRoQ=="/>
+		<POI MapID="21" xpos="692.578" ypos="5.1198" zpos="597.291" type="tgmp.ore.normal.iron" GUID="NFkjz7biNEy9K//OP5HeTQ=="/>
+		<POI MapID="21" xpos="747.568" ypos="22.0009" zpos="631.661" type="tgmp.ore.normal.iron" GUID="+u4jZLwUhk25DDaY5IPQ5w=="/>
+		<POI MapID="21" xpos="820.28" ypos="45.5795" zpos="604.845" type="tgmp.ore.normal.iron" GUID="caATJsv1VkCsklRRGnGO+w=="/>
+		<POI MapID="21" xpos="692.058" ypos="50.2398" zpos="707.643" type="tgmp.ore.normal.gold" GUID="s9vmYwH7mk2/N2cil95DxQ=="/>
+		<POI MapID="21" xpos="514.277" ypos="1.14078" zpos="707.364" type="tgmp.plant.zucchini" GUID="RtguCf75+E6ghbxvhgwR0A=="/>
+		<POI MapID="21" xpos="493.095" ypos="5.36618" zpos="736.349" type="tgmp.wood.seasoned" GUID="yZiQK51vPkKiQ8pNuLSgNQ=="/>
+		<POI MapID="21" xpos="542.147" ypos="4.42382" zpos="771.348" type="tgmp.plant.tgmpherbs.youngherbs" GUID="GEw9BrfwM0y2y5aJe6lfeA=="/>
+		<POI MapID="21" xpos="545.573" ypos="5.28691" zpos="819.193" type="tgmp.ore.rich.silver" GUID="j/wa/PiCBE2BCsW7XPxhTw=="/>
+		<POI MapID="21" xpos="468.24" ypos="6.9823" zpos="744.077" type="tgmp.wood.soft" GUID="lxW8ZNwje0Co9p6nTEoOEg=="/>
+		<POI MapID="21" xpos="395.313" ypos="3.58352" zpos="786.651" type="tgmp.ore.normal.silver" GUID="Y3cOHqGuq0a6hlJHjCgl2g=="/>
+		<POI MapID="21" xpos="385.419" ypos="11.8277" zpos="651.434" type="tgmp.plant.onions" GUID="nyNu3ntwYky9TEtMHld4fA=="/>
+		<POI MapID="21" xpos="236.377" ypos="8.58064" zpos="611.892" type="tgmp.wood.soft" GUID="J6nDNbvztEyGKNf+myRNMw=="/>
+		<POI MapID="21" xpos="228.786" ypos="18.3132" zpos="716.268" type="tgmp.ore.rich.iron" GUID="RxhpYwETokKeiqvIiVXv/g=="/>
+		<POI MapID="21" xpos="43.2813" ypos="4.97079" zpos="561.763" type="tgmp.plant.kale" GUID="hGqLaZA4y0mPU6vGqzqLVA=="/>
+		<POI MapID="21" xpos="-34.1494" ypos="19.4116" zpos="573.48" type="tgmp.plant.tgmpherbs.youngherbs" GUID="k5AIbBhVSUSsIaWEBTX9zg=="/>
+		<POI MapID="21" xpos="-0.749071" ypos="35.4264" zpos="814.392" type="tgmp.ore.normal.gold" GUID="xJXrgU83sEK7j1bdXUQfrQ=="/>
+		<POI MapID="21" xpos="176.1" ypos="9.83448" zpos="827.667" type="tgmp.plant.tgmpmushrooms.portobellomushrooms" GUID="8o21T9ewpUyAfmi4nCai4w=="/>
+		<POI MapID="21" xpos="-113.984" ypos="13.9019" zpos="742.336" type="tgmp.wood.seasoned" GUID="mR5VDLHkHECnRXElq2X7gQ=="/>
+		<POI MapID="21" xpos="-214.733" ypos="16.6468" zpos="702.112" type="tgmp.wood.seasoned" GUID="0i5GSvoP4E2e+yBs3JUXsw=="/>
+		<POI MapID="21" xpos="-150.366" ypos="21.4328" zpos="581.552" type="tgmp.wood.seasoned" GUID="Db+k6vxd5kSHTQD87R++FQ=="/>
+		<POI MapID="21" xpos="-43.3718" ypos="3.73147" zpos="492.964" type="tgmp.wood.soft" GUID="5U+j5QXNx0eo2i3UEPO+1A=="/>
+		<POI MapID="21" xpos="-185.091" ypos="9.52149" zpos="430.354" type="tgmp.plant.kale" GUID="f0bRwnEjq02lOry2kvlwgQ=="/>
+		<POI MapID="21" xpos="-72.1758" ypos="12.1519" zpos="369.472" type="tgmp.plant.zucchini" GUID="9jvmFLpxGEe7QBORzEV0lw=="/>
+		<POI MapID="21" xpos="33.564" ypos="41.4677" zpos="425.792" type="tgmp.plant.tgmprootvegetables.rootvegetables" GUID="+5+M8F4askKTkWY5w3FwKQ=="/>
+		<POI MapID="21" xpos="-103.796" ypos="41.3512" zpos="305.38" type="tgmp.wood.soft" GUID="We8zP5y9r0+zYOWuW8SIag=="/>
+		<POI MapID="21" xpos="-227.079" ypos="23.6277" zpos="321.065" type="tgmp.wood.soft" GUID="92H4R4A1tUWeWJyfpzNRqg=="/>
+		<POI MapID="21" xpos="-278.044" ypos="15.5222" zpos="325.65" type="tgmp.wood.seasoned" GUID="6EhCDWB2W06d9dDomP+G+A=="/>
+		<POI MapID="21" xpos="-338.168" ypos="16.9464" zpos="370.112" type="tgmp.wood.seasoned" GUID="bxxrd4u2cEiMXOWuUyFhGA=="/>
+		<POI MapID="21" xpos="-552.673" ypos="15.2006" zpos="-96.7803" type="tgmp.plant.tgmpherbs.youngherbs" GUID="bYllOxhWAkyOZS7YZGeVBA=="/>
+		<POI MapID="21" xpos="-651.573" ypos="9.53383" zpos="-23.5344" type="tgmp.wood.soft" GUID="Ff8m586YiEGfHubLmjb+5g=="/>
+		<POI MapID="21" xpos="-763.571" ypos="9.59632" zpos="5.64635" type="tgmp.ore.normal.silver" GUID="UXjJBBq6kUm8pAzqwowKuw=="/>
+		<POI MapID="21" xpos="-756.679" ypos="13.2324" zpos="-148.357" type="tgmp.ore.normal.iron" GUID="SpOqRvE8bkSyQcheknwi6A=="/>
+		<POI MapID="21" xpos="-744.656" ypos="63.3805" zpos="-781.712" type="tgmp.plant.tgmpherbs.youngherbs" GUID="R562/lyVZEme82dr/5hOtA=="/>
+		<POI MapID="21" xpos="-813.867" ypos="73.5066" zpos="-803.007" type="tgmp.plant.onions" GUID="OYL+9yJNGEeF4ECnsfAKgA=="/>
+		<POI MapID="21" xpos="-822.459" ypos="78.5507" zpos="-835.973" type="tgmp.plant.tgmpherbs.youngherbs" GUID="505LeZiw1kuRzhylBf9fkw=="/>
+	</POIs>
+</OverlayData>
