@@ -20,4 +20,5 @@ Cool! leave me a message in game at Kriana.7920 or find me on my public [modding
 # Credits
 - BoyC.2653 for TacO, without which this wouldn't be possible
 - LukyLuke.8734 for contributing data for the Straits of Devastation and Malchor's Leap.
+- Jelidity for her amazing help editing the marker images.
 - Arenanet for the original images of the ore, wood, and produce, which I've butchered into semi-usable markers.
