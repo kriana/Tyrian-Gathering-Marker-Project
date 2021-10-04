@@ -191,5 +191,7 @@
 		<POI MapID="21" xpos="-744.656" ypos="63.3805" zpos="-781.712" type="tgmp.plant.tgmpherbs.youngherbs" GUID="R562/lyVZEme82dr/5hOtA=="/>
 		<POI MapID="21" xpos="-813.867" ypos="73.5066" zpos="-803.007" type="tgmp.plant.onions" GUID="OYL+9yJNGEeF4ECnsfAKgA=="/>
 		<POI MapID="21" xpos="-822.459" ypos="78.5507" zpos="-835.973" type="tgmp.plant.tgmpherbs.youngherbs" GUID="505LeZiw1kuRzhylBf9fkw=="/>
+		<POI MapID="21" xpos="-775.075" ypos="72.7779" zpos="-833.338" type="tgmp.plant.onions" GUID="oBfeD/E5zUOkizDn/ko2mA=="/>
+		<POI MapID="21" xpos="-852.918" ypos="64.3217" zpos="-707.685" type="tgmp.plant.tgmpmushrooms.portobellomushrooms" GUID="3VgTDfuI/E6y7fER4c37OA=="/>
 	</POIs>
 </OverlayData>
