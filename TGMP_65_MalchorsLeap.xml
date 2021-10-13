@@ -154,5 +154,27 @@
 		<POI MapID="65" xpos="844.25" ypos="50.6841" zpos="-309.168" type="tgmp.plant.omnomberries" GUID="5PMVusYBkEGXN4QGZDfY9w=="/>
 		<POI MapID="65" xpos="814.599" ypos="74.7037" zpos="-388.491" type="tgmp.ore.normal.orichalcum" GUID="ya6AO4w7XkChCtTXTX3/rQ=="/>
 		<POI MapID="65" xpos="853.562" ypos="59.5619" zpos="-356.452" type="tgmp.plant.omnomberries" GUID="FELPqiAauUq81GVWcAvskw=="/>
+		<POI MapID="65" xpos="816.79" ypos="64.7294" zpos="-380.223" type="tgmp.plant.omnomberries" GUID="EdwrQUx6X0S3ZIV0HUAp8Q=="/>
+		<POI MapID="65" xpos="755.099" ypos="73.9271" zpos="-379.524" type="tgmp.ore.normal.mithril" GUID="5DLbuckM6E+QtZ3S38SwYw=="/>
+		<POI MapID="65" xpos="721.154" ypos="-1.03349" zpos="-208.502" type="tgmp.plant.lotus" GUID="Rre3MIEeeEO0Y+X8wyaexQ=="/>
+		<POI MapID="65" xpos="822.759" ypos="27.009" zpos="-173.985" type="tgmp.plant.blackcrocus" GUID="nHl9cWAUUEKoYqsMbkPUPQ=="/>
+		<POI MapID="65" xpos="817.812" ypos="-0.484637" zpos="-64.5573" type="tgmp.plant.lotus" GUID="boNBlzSwbkGTsLP5d8XO8Q=="/>
+		<POI MapID="65" xpos="875.095" ypos="-20.5061" zpos="-6.08041" type="tgmp.plant.coral" GUID="RxM2VmUOpkiDshEy/b+fTQ=="/>
+		<POI MapID="65" xpos="933.47" ypos="15.7956" zpos="35.4833" type="tgmp.plant.orriantruffle" GUID="DkMOyXanD0SpZtmkdO9M+Q=="/>
+		<POI MapID="65" xpos="917.61" ypos="16.1359" zpos="46.3948" type="tgmp.ore.normal.mithril" GUID="mSzx3qRiCEGUszEA83JijA=="/>
+		<POI MapID="65" xpos="1024.75" ypos="24.3357" zpos="205.938" type="tgmp.plant.blackcrocus" GUID="8z2NsPEJtE2DAkwicKIzFQ=="/>
+		<POI MapID="65" xpos="514.271" ypos="18.2791" zpos="-128.576" type="tgmp.wood.elder" GUID="jGAbDUX8RUibAIEvcwAUHA=="/>
+		<POI MapID="65" xpos="434.594" ypos="28.6282" zpos="-152.207" type="tgmp.plant.blackcrocus" GUID="iwU2NZi2R0iUn9YEnvPHvA=="/>
+		<POI MapID="65" xpos="372.656" ypos="34.2958" zpos="-167.729" type="tgmp.plant.ghostpepper" GUID="vFKJ8c449E+uIoq62VlkbA=="/>
+		<POI MapID="65" xpos="333.28" ypos="25.767" zpos="-277.615" type="tgmp.plant.omnomberries" GUID="Nyl+xp2vK0WppU5xv+jIow=="/>
+		<POI MapID="65" xpos="290.731" ypos="26.5283" zpos="-320.269" type="tgmp.plant.omnomberries" GUID="NOlfGFIFvUeiLqBED/eDqQ=="/>
+		<POI MapID="65" xpos="301.969" ypos="25.8732" zpos="-343.974" type="tgmp.plant.ghostpepper" GUID="dufNrwUjm0SQncpOy1rnQA=="/>
+		<POI MapID="65" xpos="265.112" ypos="26.0628" zpos="-370.061" type="tgmp.wood.elder" GUID="cyBHZZVlrUeaB9bLg8Fygw=="/>
+		<POI MapID="65" xpos="212.575" ypos="22.6188" zpos="-318.536" type="tgmp.plant.ghostpepper" GUID="1rNcvKA71UGhd9Z94a3eIg=="/>
+		<POI MapID="65" xpos="92.0852" ypos="38.065" zpos="-308.577" type="tgmp.plant.ghostpepper" GUID="udVACYu/m0Ggq/hzOOmArQ=="/>
+		<POI MapID="65" xpos="61.5219" ypos="28.7651" zpos="-247.63" type="tgmp.wood.elder" GUID="B49E80LYxE+2nacOl3xM4g=="/>
+		<POI MapID="65" xpos="-92.937" ypos="36.8406" zpos="-152.296" type="tgmp.plant.omnomberries" GUID="bxOQQc6/1ky1iB0AWMNNSA=="/>
+		<POI MapID="65" xpos="-225.052" ypos="18.0703" zpos="163.193" type="tgmp.wood.elder" GUID="YXGW17e5M0i3W+1VsX0aFA=="/>
+		<POI MapID="65" xpos="-391.321" ypos="-2.60451" zpos="79.6586" type="tgmp.plant.lotus" GUID="IFNY0leYFkyUtaZBcnY0Ig=="/>
 	</POIs>
 </OverlayData>
